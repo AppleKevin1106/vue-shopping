@@ -1,8 +1,5 @@
 # vue.js shopping cart
 
-example of shopping cart implemented in Vue and Vuex
-
-for demo [click here](https://krzysu.github.io/vuejs-shopping-cart/)
 
 ## getting started
 
@@ -25,6 +22,3 @@ npm test
 ```
 
 ---
-
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)  
-license: MIT
